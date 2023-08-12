@@ -20,7 +20,7 @@ For example, run the following command:
 The dataset is only available for academic research purpose.
 Please submit the following application form to get access.
 
-[Dataset application URL]
+[Dataset application URL]https://forms.gle/psGLK6VhhzhXJYxLA
 
 Once you get the dataset, place the dataset in "dataset" directory as follows:
 

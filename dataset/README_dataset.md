@@ -4,6 +4,8 @@ This is monologue dataset with self-report questionnaire scores.
 ### Specifications ###
 ######################
 
+<pre>
+
 - Language: Japanese
 - Number of participants: 55
 - Number of audio/transcript data: 454
@@ -24,21 +26,24 @@ This is monologue dataset with self-report questionnaire scores.
 --- Phase id 2: 60-120 seconds
 --- Phase id 3: 120-180 seconds
 
+</pre>
 
 ####################
 ### Score labels ###
 ####################
 
+<pre>
 - BigFive: BigFive personalities
 - KiSS18: Kikuchi's scale of social skills 18 items
 - SPQ: Schizotypal personality Questionnaire
 - SRS2: 2nd edition of social responsiveness scale
-
+</pre>
 
 ################
 ### Contents ###
 ################
 
+<pre>
 - data_label:
 --- dream_flag.csv: flag whether the corresponding topic is "recent dream at night" or "favorite thing".
 --- score: CSV format
@@ -56,6 +61,7 @@ This is monologue dataset with self-report questionnaire scores.
 
 - data_transcript_separated180
 --- format: Record_[user id]_[recording date]_[session id]_[phase id].mp3
+</pre>
 
 
 For more details, please see the following original paper:

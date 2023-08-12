@@ -24,12 +24,14 @@ Please submit the following application form to get access.
 
 Once you get the dataset, place the dataset in "dataset" directory as follows:
 
+<pre>
 - dataset
 --- data_audio
 --- data_audio_separated180
 --- data_label
 --- data_transcript
 --- data_transcript_separated180
+</pre>
 
 ###
 ### Step1: data preparation
